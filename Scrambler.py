@@ -1,3 +1,6 @@
+# By Miranda Manning
+# Written in 2020
+
 number_of_scrambles = 5
 
 import random
